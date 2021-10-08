@@ -23,7 +23,7 @@ Welcome everybody! My name is Adrian Ramos Ureña and I will show you the job th
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Misc things
-![Tia Portal]()
+![Tia Portal](https://img.shields.io/twitter/url?color=skyblue&label=Tia%20Portal&logo=Tia%20Portal&style=for-the-badge&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Furl%3Dhttps%253A%252F%252Fencrypted-tbn0.gstatic.com%252Fimages)
 ![Omron](https://www.mouser.mx/images/news-room/large/LPR_Omron_Logo-3.PNG)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
